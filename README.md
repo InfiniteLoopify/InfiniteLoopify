@@ -31,7 +31,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
     <tr>
         <td>Backend</td>
         <td align="left">
-            <a href="https://www.python.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/python/fdd247" title="Python"/></a>
+            <a href="https://www.python.org/"><img width="40" height="40" src="https://vectorlogo.zone/logos/python/python-icon.svg" title="Python"/></a>
             <a href="https://www.djangoproject.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/django/092e20/darkgreen" title="Django"/></a>
             <a href="https://flask.palletsprojects.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/flask/black/lightblue" title="Flask"/></a>
             <a href="https://fastapi.tiangolo.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/fastapi" title="FastAPI"/></a>
@@ -130,16 +130,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
         </td>
     </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
 
 ## 🏆 My Stats:
 
