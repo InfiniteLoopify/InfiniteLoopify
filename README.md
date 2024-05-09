@@ -8,8 +8,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/UmairShahab/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:umair.shahab.ahmed@gmail.com)
 <br>
-[![Resume][Resume-shield]]()
-
+<!--
+[![Resume][Resume-shield]](#)
+-->
 </div>
 
 
