@@ -16,7 +16,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 - 🔭 I’m currently working as a __Software Engineer__ 
 - 🌱 I’m passionate about [Python](https://python.org/), [Go](https://go.dev/), Backend Engineering, Data Monitoring and Web Automation.
 - 📝 I’m aiming to improve my Software Architecture skills.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- 🏆 I'm striving to increase my [GitHub stats rating](#-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I play football, draw sketches, play video games, and I can throw a ball with both of my hands!
 
 <div align="center">
