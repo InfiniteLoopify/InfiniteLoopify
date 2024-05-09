@@ -14,8 +14,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 
 - 🔭 I’m currently working as a __Software Engineer__ 
-- 🌱 I’m passionate about [Python](https://python.org/), [Go](https://go.dev/), Backend Engineering, Data Monitoring and Web Automation.
-- 📝 I’m aiming to improve my Software Architecture skills.
+- 🌱 I’m passionate about [Python](https://python.org/), Backend Engineering, Data Monitoring and Web Automation.
+- 📝 I’m aiming to learn [Go](https://go.dev/) and impove my Software Architecture skills.
 - 🏆 I'm striving to increase my [GitHub stats rating](#-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I play football, draw sketches, play video games, and I can throw a ball with both of my hands!
 
@@ -27,146 +27,119 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
-
-
 <table>
     <tr>
-        <td>Automation Tooling</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td>Backend</td>
+        <td align="left">
+            <a href="https://www.python.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/python/fdd247" title="Python"/></a>
+            <a href="https://www.djangoproject.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/django/092e20/darkgreen" title="Django"/></a>
+            <a href="https://flask.palletsprojects.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/flask/black/lightblue" title="Flask"/></a>
+            <a href="https://fastapi.tiangolo.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/fastapi" title="FastAPI"/></a>
         </td>
     </tr>
     <tr>
-        <td>Cloud Engineering</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td>Frontend</td>
+        <td align="left">
+            <a href="https://www.javascript.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/javascript" title="Javascript"/></a>
+            <a href="https://vuejs.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/vuedotjs" title="Vue.js"/></a>
+            <a href="https://wiki.python.org/moin/PyQt"><img width="40" height="40" src="https://cdn.simpleicons.org/qt" title="PyQt"/></a>
         </td>
     </tr>
     <tr>
-        <td>CI/CD</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td>Databases</td>
+        <td align="left">
+            <a href="https://www.postgresql.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/postgresql" title="Postgresql"/></a>
+            <a href="https://www.mysql.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/mysql" title="Mysql"/></a>
+            <a href="https://www.sqlalchemy.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/sqlalchemy" title="SqlAlchemy"/></a>
+            <a href="https://www.sqlite.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/sqlite/003b57/2f779a" title="Sqlite"/></a>
+            <a href="https://redis.io/"><img width="40" height="40" src="https://cdn.simpleicons.org/redis" title="Redis"/></a>
         </td>
     </tr>
     <tr>
-        <td>SysOps</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td>DevOps</td>
+        <td align="left">
+            <a href="https://www.gnu.org/software/bash/"><img width="40" height="40" src="https://cdn.simpleicons.org/gnubash" title="Bash Script"/></a>
+            <a href="https://www.docker.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/docker" title="Docker"/></a>
+            <a href="https://www.nginx.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/nginx" title="Nginx"/></a>
+            <a href="https://www.linux.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/linux/black/lightgrey" title="Linux"/></a>
+            <a href="https://ubuntu.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/ubuntu" title="Ubuntu"/></a>
         </td>
     </tr>
     <tr>
-        <td>Programming/Backend</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td>Automation & Testing</td>
+        <td align="left">
+            <a href="https://pytest.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/pytest" title="Pytest"/></a>
+            <a href="https://www.selenium.dev/"><img width="40" height="40" src="https://cdn.simpleicons.org/selenium" title="Selenium"/></a>
+            <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img width="40" height="40" src="https://img.icons8.com/external-icongeek26-outline-icongeek26/64/fdbe0a/external-soup-bar-and-restaurant-icongeek26-outline-icongeek26.png" title="BeautifulSoup"/></a>
+            <a href="https://playwright.dev/"><img width="40" height="40" src="https://cdn.simpleicons.org/playwright" title="PlayWright"/></a>
+            <a href="https://scrapy.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/scrapy" title="Scrapy"/></a>
         </td>
     </tr>
     <tr>
         <td>Monitoring & Observability</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td align="left">
+            <a href="https://www.elastic.co/elasticsearch"><img width="40" height="40" src="https://cdn.simpleicons.org/elasticsearch/fdd247" title="Elasticsearch"/></a>
+            <a href="https://www.elastic.co/logstash"><img width="40" height="40" src="https://cdn.simpleicons.org/logstash/fdbe0a" title="Logstash"/></a>
+            <a href="https://www.elastic.co/kibana"><img width="40" height="40" src="https://cdn.simpleicons.org/kibana/fd3890" title="Kibana"/></a>
+            <a href="https://grafana.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/grafana" title="Grafana"/></a>
+            <a href="https://prometheus.io/"><img width="40" height="40" src="https://cdn.simpleicons.org/prometheus" title="Prometheus"/></a>
+            <a href="https://retool.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/retool/ffa02d" title="Retool"/></a>
         </td>
     </tr>
     <tr>
-        <td>Frontend Dev</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td>Cloud Services</td>
+        <td align="left">
+            <a href="https://aws.amazon.com/ec2/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazonec2" title="Amazon EC2"/></a>
+            <a href="https://aws.amazon.com/s3/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazons3" title="Amazon S3"/></a>
+            <a href="https://aws.amazon.com/lambda/"><img width="40" height="40" src="https://cdn.simpleicons.org/awslambda" title="Amazon Lambda"/></a>
+            <a href="https://aws.amazon.com/rds/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazonrds" title="Amazon RDS"/></a>
+            <a href="https://aws.amazon.com/cloudwatch/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazoncloudwatch" title="Amazon Cloudwatch"/></a>
+            <a href="https://aws.amazon.com/eventbridge/"><img width="40" height="40" src="https://vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon EventBridge"/></a>
+            <a href="https://aws.amazon.com/sqs/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazonsqs" title="Amazon SQS"/></a>
+            <a href="https://aws.amazon.com/sns/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazonsimpleemailservice" title="Amazon SNS"/></a>
         </td>
     </tr>
     <tr>
-        <td>Databases/Datastores</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td>Machine Learning</td>
+        <td align="left">
+            <a href="https://jupyter.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/jupyter" title="Jupyter"/></a>
+            <a href="https://pandas.pydata.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/pandas/140a4a/2f1d9a" title="Pandas"/></a>
+            <a href="https://numpy.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/numpy/013243/0a5e7b" title="Numpy"/></a>
+            <a href="https://scikit-learn.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/scikitlearn" title="Scikit-Learn"/></a>
+            <a href="https://keras.io/"><img width="40" height="40" src="https://cdn.simpleicons.org/keras" title="Keras"/></a>
         </td>
     </tr>
     <tr>
         <td>IDEs</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Testing</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td align="left">
+            <a href="https://code.visualstudio.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/visualstudiocode" title="VS Code"/></a>
+            <a href="https://visualstudio.microsoft.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/visualstudio" title="Visual Studio"/></a>
+            <a href="https://www.jetbrains.com/pycharm/"><img width="40" height="40" src="https://cdn.simpleicons.org/pycharm/28d890" title="PyCharm"/></a>
+            <a href="https://www.jetbrains.com/webstorm/"><img width="40" height="40" src="https://cdn.simpleicons.org/webstorm/248bd9" title="WebStorm"/></a>
         </td>
     </tr>
     <tr>
         <td>Others/Misc</td>
-        <td>
-            <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/" title=""/></a>
+        <td align="left">
+            <a href="https://azure.microsoft.com/en-us/services/devops/"><img width="40" height="40" src="https://cdn.simpleicons.org/azuredevops" title="Azure DevOps"/></a>
+            <a href="https://www.atlassian.com/software/jira"><img width="40" height="40" src="https://cdn.simpleicons.org/jira" title="Jira"/></a>
+            <a href="https://www.atlassian.com/software/confluence"><img width="40" height="40" src="https://cdn.simpleicons.org/confluence/172b4d/1e4894" title="Confluence"/></a>
+            <a href="https://git-scm.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/git" title="Version Control (Git)"/></a>
+            <a href="https://github.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/github/black/lightgrey" title="Github"/></a>
+            <a href="https://bitbucket.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/bitbucket" title="BitBucket"/></a>
         </td>
-
     </tr>
 </table>
 
-<a href="https://aws.amazon.com/lambda/"><img width="40" height="40" src="https://cdn.simpleicons.org/awslambda" title="awslambda"/></a>
-<a href="https://aws.amazon.com/rds/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazonrds" title="amazonrds"/></a>
-<a href="https://aws.amazon.com/ec2/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazonec2" title="amazonec2"/></a>
-<a href="https://aws.amazon.com/s3/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazons3" title="amazons3"/></a>
-<a href="https://aws.amazon.com/ses/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazonsimpleemailservice" title="amazonsimpleemailservice"/></a>
-<a href="https://aws.amazon.com/sqs/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazonsqs" title="amazonsqs"/></a>
-<a href="https://aws.amazon.com/cloudwatch/"><img width="40" height="40" src="https://cdn.simpleicons.org/amazoncloudwatch" title="amazoncloudwatch"/></a>
-<a href="https://aws.amazon.com/eventbridge/"><img width="40" height="40" src="https://vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="awseventbridge"/></a>
-
-<a href="https://www.elastic.co/"><img width="40" height="40" src="https://cdn.simpleicons.org/elasticsearch" title="elasticsearch"/></a>
-<a href="https://www.elastic.co/"><img width="40" height="40" src="https://cdn.simpleicons.org/logstash" title="logstash"/></a>
-<a href="https://www.elastic.co/"><img width="40" height="40" src="https://cdn.simpleicons.org/kibana" title="kibana"/></a>
-<a href="https://grafana.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/grafana" title="grafana"/></a>
-<a href="https://prometheus.io/"><img width="40" height="40" src="https://cdn.simpleicons.org/prometheus" title="prometheus"/></a>
-<a href="https://retool.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/retool" title="retool"/></a>
-
-<a href="https://www.javascript.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/javascript" title="javascript"/></a>
-<a href="https://vuejs.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/vuedotjs" title="vuedotjs"/></a>
-
-<a href="https://webrtc.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/webrtc" title="webrtc"/></a>
-<a href="https://letsencrypt.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/letsencrypt" title="letsencrypt"/></a>
-<a href="https://www.linux.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/linux" title="linux"/></a>
-<a href="https://ubuntu.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/ubuntu" title="ubuntu"/></a>
-<a href="https://www.gnu.org/software/bash/"><img width="40" height="40" src="https://cdn.simpleicons.org/gnubash" title="gnubash"/></a>
-<a href="https://www.nginx.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/nginx" title="nginx"/></a>
-<a href="https://www.docker.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/docker" title="docker"/></a>
-
-<a href="https://www.sqlite.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/sqlite" title="sqlite"/></a>
-<a href="https://www.sqlalchemy.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/sqlalchemy" title="sqlalchemy"/></a>
-<a href="https://www.mysql.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/mysql" title="mysql"/></a>
-<a href="https://www.postgresql.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/postgresql" title="postgresql"/></a>
-<a href="https://redis.io/"><img width="40" height="40" src="https://cdn.simpleicons.org/redis" title="redis"/></a>
-
-<a href="https://azure.microsoft.com/en-us/services/devops/"><img width="40" height="40" src="https://cdn.simpleicons.org/azuredevops" title="azuredevops"/></a>
-<a href="https://www.atlassian.com/software/jira"><img width="40" height="40" src="https://cdn.simpleicons.org/jira" title="jira"/></a>
-<a href="https://www.atlassian.com/software/confluence"><img width="40" height="40" src="https://cdn.simpleicons.org/confluence" title="confluence"/></a>
-<a href="https://bitbucket.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/bitbucket" title="bitbucket"/></a>
-<a href="https://github.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/github" title="github"/></a>
-<a href="https://about.gitlab.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/gitlab" title="gitlab"/></a>
-<a href="https://git-scm.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/git" title="git"/></a>
-
-<a href="https://www.selenium.dev/"><img width="40" height="40" src="https://cdn.simpleicons.org/selenium" title="selenium"/></a>
-<a href="https://www.crummy.com/software/BeautifulSoup/"><img width="40" height="40" src="https://cdn.simpleicons.org/beautifulsoup" title="beautifulsoup"/></a>
-
-<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img width="40" height="40" src=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAC1klEQVR4nOXX24uWVRQG8N+MjWUEpgWjgmiKiGBWaAhJU1EXFmSjllCmKJUXGVZ0GENEK6pB8sIuqvGQdNPBwjLUKB0dD6kFedtN0D/Qnf0BseH54nX8dPwOjhc9sPjW++79rsPeaz17f/xPMBUr8SzGjqbjcRjAj3ge/XhrtJx34Aesxc14Bt/iudEK4ElsxyScxkuY16rRzqvQOyIl2ynYhYXagBtwtPL8M7qif4I50V9GL07k+bg24Qm8HX02vo5eqvrXZF1wJsXX9gDuxpfRb8u+iuPfcEueD+IuHGp3AGOSqUqmN0b/HHOjlzbbjE/bHcDj2BJ9VmU1uhJMbQtOYik2tSuAzrTSfXgYj2BxiOWpyLq8L/JoamV1owF0pF024gsMYRDH8BV2hMnKeB9ejeMir+fd1sw5hwdj9w8cwU6sx731nHcl0h3JoPRvK9iLmcNWYDIei4/BtPV/KMV0Ad8nykWYqHkcrRRoCWBCbBbb3+Gf0PNFOJK9XoH3sT+RDkVKe+0Lsw1UtqQ/+kDGypy/8RMOhw/2x+aK+ChFewnOVpitHkqfd2NGZP4wqb3vrnBCPRQfv9Qb+BAb2rD/V8KUUPVH9Qbvx++p+JNZ/s/wTip+DZZU2m1BJfsFlfdLMrd8824KcjBbUWyfTzvXZbqz4fHaUk1HTw6XmtG+7Gf/MHkvY69kbm+Sml6p+JtC4dXT8yKUS8Nrrh02jnQh6cxSFaqdhtvb6Hx2tuKy2ddwRyb2hE6vVNFXi/FZ+ho5jYie8MKs1EUprmYxIbYeavTDB8LphcH24JtUeyOYl55v2HkNb+AvbEtFfxyD5fcel8et+AB/4k0tYEPaaTlOpaeXJqNSpFWUW9Ky0PHxzOsN8TSNF3Pe13BnbjwHQlZDcXY6h0xf5WYk3xYbTWMdnm7h+8IrL7QSwDLsrtx8GpXd2YqmMQarsrTNSPkzOiLxXFf8CxWomoqUMVPzAAAAAElFTkSuQmCC title="BeautifulSoup"/></a>
 
 
-<a href="https://scrapy.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/scrapy" title="scrapy"/></a>
-<a href="https://playwright.dev/"><img width="40" height="40" src="https://cdn.simpleicons.org/playwright" title="playwright"/></a>
 
-<a href="https://www.python.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/python" title="python"/></a>
-<a href="https://www.djangoproject.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/django" title="django"/></a>
-<a href="https://docs.celeryproject.org/en/stable/"><img width="40" height="40" src="https://cdn.simpleicons.org/celery" title="celery"/></a>
-<a href="https://flask.palletsprojects.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/flask" title="flask"/></a>
-<a href="https://fastapi.tiangolo.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/fastapi" title="fastapi"/></a>
-<a href="https://pytest.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/pytest" title="pytest"/></a>
-<a href="https://jupyter.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/jupyter" title="jupyter"/></a>
-<a href="https://wiki.python.org/moin/PyQt"><img width="40" height="40" src="https://cdn.simpleicons.org/qt" title="PyQt"/></a>
-<a href="https://pandas.pydata.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/pandas" title="pandas"/></a>
-<a href="https://numpy.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/numpy" title="numpy"/></a>
 
-<a href="https://code.visualstudio.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/visualstudiocode" title="visualstudiocode"/></a>
-<a href="https://www.jetbrains.com/pycharm/"><img width="40" height="40" src="https://cdn.simpleicons.org/pycharm" title="pycharm"/></a>
-<a href="https://www.jetbrains.com/webstorm/"><img width="40" height="40" src="https://cdn.simpleicons.org/webstorm" title="webstorm"/></a>
-<a href="https://visualstudio.microsoft.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/visualstudio" title="visualstudio"/></a>
 
-<a href="https://copilot.github.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/githubcopilot" title="githubcopilot"/></a>
+
+
+
+
 
 ## 🏆 My Stats:
 
