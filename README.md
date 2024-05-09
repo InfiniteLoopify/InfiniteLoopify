@@ -1,63 +1,3 @@
-<!---
-# Hello there 👋, I'm Umair Shahab
-### Software Engineer
-
-<div align="center">
-
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/UmairShahab) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:umair.shahab.ahmed@gmail.com)
-<br>
-[![Resume][Resume-shield]](https://google.com)
-</div>
-
-
-- 🔭 I’m currently working on: __Backend Engineering__ 
-- 🌱 I’m currently learning: __Go, Alpine.js, Vue.js__
-- 💬 Ask me about __Python, Django, Web Scraping, Data Analysis and Visualization, Data Monitoring...__
-- ⚡ Fun fact: I can throw a ball with both of my hands
-
-<br/>
-<div align="center">
-
-## 💡 A Quote:
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=True&quote=Life%20is%20short.%20Smile%20while%20you%20still%20have%20teeth.&author=Mallory%20Hopkins)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
-
-### My GitHub Stats
-
-<table align="center">
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=InfiniteLoopify&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,SECRET&row=3&column=4"/>
-        </td>
-        <td>
-            <img src="https://streak-stats.demolab.com?user=InfiniteLoopify&theme=radical"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=InfiniteLoopify&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteLoopify&layout=donut&theme=tokyonight&hide=css,html"/>
-        </td>
-    </tr>
-</table>
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions"  title="qwe" alt="GA />
-  </a>
-  <a href="https://google.com">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p>
-
--->
-
 <div align="center">
 
 <!--
@@ -72,13 +12,13 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-<!--
-- 🔭 I’m currently working at [P33R Finance](https://www.linkedin.com/company/p33r-finance/) where we were [incubated by Tenity](https://www.linkedin.com/posts/p33r-finance_tenity-invests-in-13-disruptive-early-stage-activity-7118550943268294656-cH__?utm_source=share&utm_medium=member_desktop) and selected for [AWS Startups Build Accelerator 2023](https://www.linkedin.com/posts/p33r-finance_p33r-awsbuildaccelerator-activity-7121072561857208320-U9f-?utm_source=share&utm_medium=member_desktop).
-- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
-- 📝 I’m aiming to write **one article per week** starting from November 2023.
+
+- 🔭 I’m currently working as a __Software Engineer__ 
+- 🌱 I’m passionate about [Python](https://python.org/), [Go](https://go.dev/), Backend Engineering, Data Monitoring and Web Automation.
+- 📝 I’m aiming to improve my Software Architecture skills.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I play football, draw sketches, play video games, and I can throw a ball with both of my hands!
--->
+
 <div align="center">
 
 ## 💡 A Quote:
@@ -95,14 +35,14 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteLoopify&layout=donut&hide=css,html&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InfiniteLoopify&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Github Streak" src="https://streak-stats.demolab.com?user=InfiniteLoopify&theme=dark"/>&nbsp;&nbsp;
+    <img height=175 alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=InfiniteLoopify&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,SECRET&column=3"/>&nbsp;&nbsp;
 </p>
 
-
+<!--
 ## 🏆 My Trophies:
 <p>
-    <img height=140 alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=InfiniteLoopify&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,SECRET&row=3&column=4"/>&nbsp;&nbsp;
 </p>    
-
+-->
 ## 🎮 When I'm AFK:
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
