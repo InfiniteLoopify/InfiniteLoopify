@@ -78,7 +78,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
     <tr>
         <td>Monitoring & Observability</td>
         <td align="left">
-            <a href="https://www.elastic.co/elasticsearch"><img width="40" height="40" src="https://cdn.simpleicons.org/elasticsearch/fdd247" title="Elasticsearch"/></a>
+            <a href="https://www.elastic.co/elasticsearch"><img width="40" height="40" src="https://cdn.simpleicons.org/elasticsearch/099bda" title="Elasticsearch"/></a>
             <a href="https://www.elastic.co/logstash"><img width="40" height="40" src="https://cdn.simpleicons.org/logstash/fdbe0a" title="Logstash"/></a>
             <a href="https://www.elastic.co/kibana"><img width="40" height="40" src="https://cdn.simpleicons.org/kibana/fd3890" title="Kibana"/></a>
             <a href="https://grafana.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/grafana" title="Grafana"/></a>
