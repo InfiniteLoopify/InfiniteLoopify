@@ -1,7 +1,6 @@
 <div align="center">
 
-
-[![Hi, I'm Umair!](assets/intro.gif)](#)
+# Hi, I'm Umair <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/UmairShahab/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:umair.shahab.ahmed@gmail.com)
@@ -12,7 +11,7 @@
 </div>
 
 
-- 🔭 I’m currently working as a __Software Engineer__ 
+- 🔭 I’m currently working as a Software Engineer. 
 - 🌱 I’m passionate about [Python](https://python.org/), Backend Engineering, Data Monitoring and Web Automation.
 - 📝 I’m aiming to learn [Go](https://go.dev/) and impove my Software Architecture skills.
 - 🏆 I'm striving to increase my [GitHub stats rating](#-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
