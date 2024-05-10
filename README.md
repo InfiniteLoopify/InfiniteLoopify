@@ -100,7 +100,6 @@
     <tr>
         <td>Machine Learning</td>
         <td align="left">
-            <a href="https://jupyter.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/jupyter" title="Jupyter"/></a>
             <a href="https://pandas.pydata.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/pandas/140a4a/2f1d9a" title="Pandas"/></a>
             <a href="https://numpy.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/numpy/013243/0a5e7b" title="Numpy"/></a>
             <a href="https://matplotlib.org/"><img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" title="Matplotlib"/></a>
@@ -115,6 +114,7 @@
             <a href="https://visualstudio.microsoft.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/visualstudio" title="Visual Studio"/></a>
             <a href="https://www.jetbrains.com/pycharm/"><img width="40" height="40" src="https://cdn.simpleicons.org/pycharm/28d890" title="PyCharm"/></a>
             <a href="https://www.jetbrains.com/webstorm/"><img width="40" height="40" src="https://cdn.simpleicons.org/webstorm/248bd9" title="WebStorm"/></a>
+            <a href="https://jupyter.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/jupyter" title="Jupyter"/></a>
         </td>
     </tr>
     <tr>
