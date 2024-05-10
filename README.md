@@ -104,6 +104,7 @@
             <a href="https://jupyter.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/jupyter" title="Jupyter"/></a>
             <a href="https://pandas.pydata.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/pandas/140a4a/2f1d9a" title="Pandas"/></a>
             <a href="https://numpy.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/numpy/013243/0a5e7b" title="Numpy"/></a>
+            <a href="https://matplotlib.org/"><img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" title="Matplotlib"/></a>
             <a href="https://scikit-learn.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/scikitlearn" title="Scikit-Learn"/></a>
             <a href="https://keras.io/"><img width="40" height="40" src="https://cdn.simpleicons.org/keras" title="Keras"/></a>
         </td>
