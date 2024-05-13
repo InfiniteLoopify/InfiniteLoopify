@@ -126,6 +126,7 @@
             <a href="https://git-scm.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/git" title="Version Control (Git)"/></a>
             <a href="https://github.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/github/black/lightgrey" title="Github"/></a>
             <a href="https://bitbucket.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/bitbucket" title="BitBucket"/></a>
+            <a href="https://www.postman.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/postman" title="Postman"/></a>
         </td>
     </tr>
 </table>
