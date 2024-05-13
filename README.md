@@ -3,7 +3,8 @@
 # Hi, I'm Umair <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/UmairShahab/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:umair.shahab.ahmed@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:umair.shahab.ahmed@gmail.com) &nbsp;
+<a href="https://infiniteloopify.github.io"><img src="assets/website.png" alt="Website" width="48" title="Website"/></a>
 <br>
 <!--
 [![Resume][Resume-shield]](#)
