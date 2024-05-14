@@ -6,9 +6,9 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:umair.shahab.ahmed@gmail.com) &nbsp;
 <a href="https://infiniteloopify.github.io"><img src="assets/website.png" alt="Website" width="48" title="Website"/></a>
 <br>
-<!--
-[![Resume][Resume-shield]](#)
--->
+
+<a href="https://infiniteloopify.github.io/assets/Umair%20Shahab%20-%20Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_Resume-eeeeee?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAg0lEQVR4nGNgoBUQS9lvIZpyYBUIg9gj1QCR1AOrQZgsA0TTDoSKph74D8ZpB0LpZ4BI2kE70dT9P+GaYTjlwG+x1P0uxBmScjAZw4C0/ZmkeSFl/0SE7fsnMJAMQlcxi6Ye2CySemAHQ/1+FtINYGBgEMo9wQfCRCmGxTmxmPoGkAsAnA2LAnadUDoAAAAASUVORK5CYII=" title="Resume"/></a>
+
 </div>
 
 
@@ -156,7 +156,3 @@
 <!-- MARKDOWN IMAGES -->
 
 [Football-shield]: https://img.shields.io/badge/Football-eeeeee?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABO0lEQVR4nIXTS0pYQRAF0IMfnKrZQTLQqPiZ6ChxbjB+dyF+M/I3yiRkEzpWiQoGF6AjA25BxS04jqGkHrTPhlwoqHf79u1+VdXU0YExLGAR48n9F134hhMc4W/GMc5yLTRV9OMXZgpuBavF9xec4l3t5FO8b/HzWG5xH1LbXZJb2KzcqmbQ6CNe0IkHHHqNAdxmRF7iAI9NYUfxjN9ZrD2s4Sn558yjFjupuUz+Yxgs4XvhHu27KzY3cY+JQhd7vjYG0esSPysGwZWIfXORjOTVSkxVDCZbmn0MykLE4JT4hAv8yIj8c0tzXE7nVg5JoA/n6CnEPcn15vcs1tuDdJ7j+qepbgvDuElNDFK0/xXi5Ov83+mKQXCxdlXc5A3iJhvZ5+18jTGJu8nF2puTa4jiDKVBtCvy6nP+ByIlRu+qTsehAAAAAElFTkSuQmCC
-
-[Resume-shield]: https://img.shields.io/badge/Resume-eeeeee?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAg0lEQVR4nGNgoBUQS9lvIZpyYBUIg9gj1QCR1AOrQZgsA0TTDoSKph74D8ZpB0LpZ4BI2kE70dT9P+GaYTjlwG+x1P0uxBmScjAZw4C0/ZmkeSFl/0SE7fsnMJAMQlcxi6Ye2CySemAHQ/1+FtINYGBgEMo9wQfCRCmGxTmxmPoGkAsAnA2LAnadUDoAAAAASUVORK5CYII=
-
-
