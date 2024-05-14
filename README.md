@@ -7,7 +7,7 @@
 <a href="https://infiniteloopify.github.io"><img src="assets/website.png" alt="Website" width="48" title="Website"/></a>
 <br>
 
-<a href="https://infiniteloopify.github.io/assets/Umair%20Shahab%20-%20Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_Resume-eeeeee?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAg0lEQVR4nGNgoBUQS9lvIZpyYBUIg9gj1QCR1AOrQZgsA0TTDoSKph74D8ZpB0LpZ4BI2kE70dT9P+GaYTjlwG+x1P0uxBmScjAZw4C0/ZmkeSFl/0SE7fsnMJAMQlcxi6Ye2CySemAHQ/1+FtINYGBgEMo9wQfCRCmGxTmxmPoGkAsAnA2LAnadUDoAAAAASUVORK5CYII=" title="Resume"/></a>
+<a href="https://infiniteloopify.github.io/assets/Umair%20Shahab%20-%20Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-eeeeee?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAg0lEQVR4nGNgoBUQS9lvIZpyYBUIg9gj1QCR1AOrQZgsA0TTDoSKph74D8ZpB0LpZ4BI2kE70dT9P+GaYTjlwG+x1P0uxBmScjAZw4C0/ZmkeSFl/0SE7fsnMJAMQlcxi6Ye2CySemAHQ/1+FtINYGBgEMo9wQfCRCmGxTmxmPoGkAsAnA2LAnadUDoAAAAASUVORK5CYII=" title="Resume"/></a>
 
 </div>
 
