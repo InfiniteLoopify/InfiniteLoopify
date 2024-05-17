@@ -137,8 +137,8 @@
 <p>
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteLoopify&layout=donut&hide=scss,css,html&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=InfiniteLoopify&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Github Streak" src="https://streak-stats.demolab.com?user=InfiniteLoopify&theme=dark"/>&nbsp;&nbsp;
-    <img height=175 alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=InfiniteLoopify&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,SECRET&column=3"/>&nbsp;&nbsp;
+    <img height=175 alt="Github Streak" src="https://streak-stats.demolab.com?user=InfiniteLoopify&theme=dark"/>
+    <img height=175 alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=InfiniteLoopify&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,SECRET&column=3"/>
 </p>
 
 ## 🎮 When I'm AFK:
