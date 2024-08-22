@@ -111,7 +111,7 @@
     <tr>
         <td>IDEs</td>
         <td align="left">
-            <a href="https://code.visualstudio.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/visualstudiocode" title="VS Code"/></a>
+            <a href="https://code.visualstudio.com/"><img width="40" height="40" src="https://vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VS Code"/></a>
             <a href="https://visualstudio.microsoft.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/visualstudio" title="Visual Studio"/></a>
             <a href="https://www.jetbrains.com/pycharm/"><img width="40" height="40" src="https://cdn.simpleicons.org/pycharm/28d890" title="PyCharm"/></a>
             <a href="https://www.jetbrains.com/webstorm/"><img width="40" height="40" src="https://cdn.simpleicons.org/webstorm/248bd9" title="WebStorm"/></a>
@@ -121,7 +121,7 @@
     <tr>
         <td>Others/Misc</td>
         <td align="left">
-            <a href="https://azure.microsoft.com/en-us/services/devops/"><img width="40" height="40" src="https://cdn.simpleicons.org/azuredevops" title="Azure DevOps"/></a>
+            <a href="https://azure.microsoft.com/en-us/services/devops/"><img width="40" height="40" src="https://vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure DevOps"/></a>
             <a href="https://www.atlassian.com/software/jira"><img width="40" height="40" src="https://cdn.simpleicons.org/jira" title="Jira"/></a>
             <a href="https://www.atlassian.com/software/confluence"><img width="40" height="40" src="https://cdn.simpleicons.org/confluence/172b4d/1e4894" title="Confluence"/></a>
             <a href="https://git-scm.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/git" title="Version Control (Git)"/></a>
