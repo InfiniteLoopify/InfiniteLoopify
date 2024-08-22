@@ -70,7 +70,7 @@
             <a href="https://pytest.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/pytest" title="Pytest"/></a>
             <a href="https://www.selenium.dev/"><img width="40" height="40" src="https://cdn.simpleicons.org/selenium" title="Selenium"/></a>
             <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img width="40" height="40" src="https://img.icons8.com/external-icongeek26-outline-icongeek26/64/fdbe0a/external-soup-bar-and-restaurant-icongeek26-outline-icongeek26.png" title="BeautifulSoup"/></a>
-            <a href="https://playwright.dev/"><img width="40" height="40" src="https://cdn.simpleicons.org/playwright" title="PlayWright"/></a>
+            <a href="https://playwright.dev/"><img width="40" height="40" src="https://playwright.dev/python/img/playwright-logo.svg" title="PlayWright"/></a>
             <a href="https://scrapy.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/scrapy" title="Scrapy"/></a>
         </td>
     </tr>
@@ -112,7 +112,7 @@
         <td>IDEs</td>
         <td align="left">
             <a href="https://code.visualstudio.com/"><img width="40" height="40" src="https://vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VS Code"/></a>
-            <a href="https://visualstudio.microsoft.com/"><img width="40" height="40" src="https://cdn.simpleicons.org/visualstudio" title="Visual Studio"/></a>
+            <a href="https://visualstudio.microsoft.com/"><img width="40" height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png" title="Visual Studio"/></a>
             <a href="https://www.jetbrains.com/pycharm/"><img width="40" height="40" src="https://cdn.simpleicons.org/pycharm/28d890" title="PyCharm"/></a>
             <a href="https://www.jetbrains.com/webstorm/"><img width="40" height="40" src="https://cdn.simpleicons.org/webstorm/248bd9" title="WebStorm"/></a>
             <a href="https://jupyter.org/"><img width="40" height="40" src="https://cdn.simpleicons.org/jupyter" title="Jupyter"/></a>
