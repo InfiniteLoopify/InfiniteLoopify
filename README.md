@@ -88,15 +88,15 @@
     <tr>
         <td>Cloud Services</td>
         <td align="left">
-            <a href="https://aws.amazon.com/ec2/"><img align="left" width="40" height="40" src="https://cdn.simpleicons.org/amazonec2" title="Amazon EC2"/></a>
-            <a href="https://aws.amazon.com/s3/"><img align="left" width="40" height="40" src="https://cdn.simpleicons.org/amazons3" title="Amazon S3"/></a>
-            <a href="https://aws.amazon.com/lambda/"><img align="left" width="40" height="40" src="https://cdn.simpleicons.org/awslambda" title="Amazon Lambda"/></a>
-            <a href="https://aws.amazon.com/rds/"><img align="left" width="40" height="40" src="https://cdn.simpleicons.org/amazonrds" title="Amazon RDS"/></a>
-            <a href="https://aws.amazon.com/cloudwatch/"><img align="left" width="40" height="40" src="https://cdn.simpleicons.org/amazoncloudwatch" title="Amazon Cloudwatch"/></a>
-            <a href="https://aws.amazon.com/eventbridge/"><img align="left" width="40" height="40" src="https://vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon EventBridge"/></a>
-            <a href="https://aws.amazon.com/sqs/"><img align="left" width="40" height="40" src="https://cdn.simpleicons.org/amazonsqs" title="Amazon SQS"/></a>
-            <a href="https://aws.amazon.com/sns/"><img align="left" width="40" height="40" src="https://cdn.simpleicons.org/amazonsimpleemailservice" title="Amazon SNS"/></a>
-        </td>
+            <a href="https://aws.amazon.com/ec2/"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEC2.svg" title="Amazon EC2"/></a>
+            <a href="https://aws.amazon.com/s3/"><img align="left" width="40" height="40" src="https://symbols.getvecta.com/stencil_24/8_s3-bucket-with-objects.8e17c9b9e5.svg" title="Amazon S3"/></a>
+            <a href="https://aws.amazon.com/lambda/"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSLambda.svg" title="Amazon Lambda"/></a>
+            <a href="https://aws.amazon.com/rds/"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonRDS.svg" title="Amazon RDS"/></a>
+            <a href="https://aws.amazon.com/cloudwatch/"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonCloudWatch.svg" title="Amazon CloudWatch"/></a>
+            <a href="https://aws.amazon.com/eventbridge/"><img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEventBridge.svg" title="Amazon EventBridge"/></a>
+            <a href="https://aws.amazon.com/sqs/"><img align="left" width="40" height="40" src="https://symbols.getvecta.com/stencil_17/7_amazon-sqs.019e022f97.svg" title="Amazon SQS"/></a>
+            <a href="https://aws.amazon.com/sns/"><img align="left" width="40" height="40" src="https://symbols.getvecta.com/stencil_17/3_amazon-sns.64c1e330e6.svg" title="Amazon SNS"/></a>
+            </td>
     </tr>
     <tr>
         <td>Machine Learning</td>
