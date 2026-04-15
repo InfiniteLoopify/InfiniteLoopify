@@ -16,7 +16,7 @@
 - 🌱 I’m passionate about [Python](https://python.org/), Backend Engineering, Data Monitoring and Web Automation.
 - 📝 I’m aiming to learn [Go](https://go.dev/) and impove my Software Architecture skills.
 - 🏆 I'm striving to increase my [GitHub stats rating](#-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Fun fact: I play football, draw sketches, play video games, and I can throw a ball with both of my hands!
+- ⚡ Fun fact: I play football, draw sketches, play video games, and I am ambidextrous!
 
 <div align="center">
 
